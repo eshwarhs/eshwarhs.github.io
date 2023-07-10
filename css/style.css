@@ -11423,3 +11423,15 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+
+.centered-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-description {
+  text-align: center;
+  margin-top: 10px;
+}
